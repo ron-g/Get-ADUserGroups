@@ -81,9 +81,9 @@ A generic shared account:
 
 CN=sampleshared,CN=Users,DC=staff,DC=example,DC=com
 
-==================================
-        sampleshared (sampleshared)
-==================================
+======================================================
+              sampleshared (sampleshared)             
+======================================================
 
  GroupScope name
  ---------- ----
@@ -96,9 +96,9 @@ Domain Admin:
 
 CN=dadmin,CN=Users,DC=staff,DC=example,DC=com
 
-======================================================
-              Administrator (dadmin)
-======================================================
+============================================
+           Administrator (dadmin)
+============================================
 
  GroupScope name
  ---------- ----
